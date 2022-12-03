@@ -1,0 +1,21 @@
+{
+  "name": "advent2022",
+  "version": "1.0.0",
+  "author": "benhooper.eth",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "lodash": "^4.17.21",
+    "path": "^0.12.7",
+    "prompts": "^2.4.2",
+    "ts-node": "^10.9.1"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.191",
+    "@types/prompts": "^2.4.1"
+  },
+  "scripts": {
+    "newDay": "yarn ts-node scripts/generateCurrentDay.ts",
+    "customNewDay": "yarn ts-node scripts/generateCustomDay.ts"
+  }
+}
