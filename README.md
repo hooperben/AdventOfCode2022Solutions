@@ -1,4 +1,4 @@
-## My 2022 Advent solutions
+## 2022 Advent of Code Solutions (Primarily in TS)
 
 ## Installation
 
