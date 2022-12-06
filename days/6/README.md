@@ -62,5 +62,5 @@ How many characters need to be processed before the first start-of-message marke
 ```
 // to find out, run:
 
-yarn ts-node days/5/1.ts
+yarn ts-node days/6/2.ts
 ```
